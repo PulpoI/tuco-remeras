@@ -1,35 +1,3 @@
-/*
-    Name: OAK
-    Version: 1.1
-    Author: EliteFingers
-    Author URI: http://www.elitefingers.com
-*/
-
-/* =Table of Contents
---------------------------------------------------------------
-    /* =Common Styles
-    /* =Typography
-    /* =General
-    /* =Buttons
-    /* =Preloader
-    /* =Header
-    /* =Full Width Slider
-    /* =Architecure Slider 
-    /* =Menu right
-    /* =Home Content
-    /* =Architecture Content
-    /* =Portfolio General
-    /* =Single Project
-    /* =Blog
-    /* =Contact
-    /* =Page Not Found
-    /* =Footer
---------------------------------------------------------------
-
-
-/* =Common Styles
--------------------------------------------------------------- */
-
 @font-face {
     font-family: 'azedobold';
     src: url('../fonts/azedo-bold-webfont.eot');
