@@ -462,6 +462,7 @@ a:hover>span.site-name{
     font-family: 'azedobold';
     font-size: 60px;
     letter-spacing: 8px;
+    color: #eee;
 }
 .slider-description-inner h1 span {
     font-family: 'azedolight';
@@ -470,6 +471,7 @@ a:hover>span.site-name{
     font-weight: 100;
     margin-left: 10px;
     line-height: 80px;
+    color: rgb(17, 17, 17);
 }
 .cd-intro {
     float: left;
@@ -478,7 +480,7 @@ a:hover>span.site-name{
 .cd-headline {
     font-size: 30px;
     margin-top: 40px;
-    color: #000;
+    color: #eee;
     font-weight: 100;
     letter-spacing: 3pt;
 }
@@ -520,7 +522,7 @@ a:hover>span.site-name{
     right: 0;
     width: 1px;
     height: 100%;
-    background-color: #000;
+    background-color: #eee;
 }
 .cd-headline.clip b {
     font-family: 'Lekton', sans-serif;
@@ -1487,7 +1489,7 @@ ul.sub-menu li a {
     border: 0;
     border: 1px solid #e6e6e6;
     outline: 0;
-    padding-left: 20px;
+    padding-left: 10px;
     padding-right: 20px;
 }
 .newsletter-right-inner input:focus {
